@@ -24,8 +24,14 @@
 
 ## 🚀 How to Use
 
-1. Clone the repository:
+- Clone the repository:
 
    ```bash
    git clone https://github.com/afritabdennour/Chef-Claude.git
    cd Chef-Claude
+   npm install
+   npm run dev
+   
+## 📸 Preview
+
+![Screeshot]
