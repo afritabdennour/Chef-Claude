@@ -39,3 +39,8 @@
 <img src="./src/assets/Screenshot (59).png" width="300" />
 <br />
 <img src="./src/assets/Screenshot (60).png" width="300" />
+
+## 🚫 Notes:
+
+⚠️ Create a `.env` file in the root of the project and add your Hugging Face API key.
+⚠️ Get your own API key from [Hugging Face](https://huggingface.co/settings/tokens).
