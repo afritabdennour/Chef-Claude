@@ -34,4 +34,4 @@
    
 ## 📸 Preview
 
-![Screeshot]
+![Screeshot](./src/assets/Screenshot (58).png)
