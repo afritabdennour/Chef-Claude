@@ -12,7 +12,7 @@ Format your response in markdown to make it easier to render to a web page and y
 - Always respond in **markdown format** with clear sections: recipe name, ingredients, and instructions.
 - Keep the tone friendly and helpful, like a creative but practical chef.`
 
-const hf = new HfInference(VITE_HF_TOKEN)
+const hf = new HfInference(import.meta.env.VITE_HF_TOKEN)
 
 export async function getRecipeFromMistral(ingredientsArr) {
     const ingredientsString = ingredientsArr.join(", ")
