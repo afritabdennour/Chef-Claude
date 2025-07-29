@@ -47,4 +47,4 @@
 ## 🚫 Notes
 
 - ⚠️ Create a `.env` file in the root of the project and add your Hugging Face API key.
-- ⚠️ Get your own API key from [Get Hugging Face API](_blank ,https://huggingface.co/settings/tokens).
+- ⚠️ Get your own API key from [Get Hugging Face API](https://huggingface.co/settings/tokens).
