@@ -36,7 +36,7 @@
    
 ## 📸 Preview
 
-<div style="display: flex">
+<div style="display: flex; gap: 10px;">
   <img src="./src/assets/Screenshot (58).png" width="300" />
   <br />
   <img src="./src/assets/Screenshot (59).png" width="300" />
