@@ -1,12 +1,31 @@
-# React + Vite
+# 👨‍🍳 Chef Claude
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Chef Claude** is an intelligent recipe generator web application powered by AI (Hugging Face Inference API). Simply input a list of ingredients you have at home, and Chef Claude will generate a creative, step-by-step recipe you can cook!
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🌟 Features
 
-## Expanding the ESLint configuration
+- 🧠 Uses AI to generate creative recipes based on given ingredients.
+- 📋 Provides easy-to-follow cooking instructions.
+- 💡 Clean, responsive, and simple user interface.
+- 🔐 Integrates Hugging Face Inference API using a secure JS token.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Built With
+
+- **React** – Frontend framework for dynamic UI.
+- **JavaScript** – Core scripting for logic and Hugging Face API integration.
+- **CSS** – Styling and responsive layout.
+- **Hugging Face Inference API** – AI for generating natural language recipes.
+
+---
+
+## 🚀 How to Use
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/afritabdennour/Chef-Claude.git
+   cd Chef-Claude
