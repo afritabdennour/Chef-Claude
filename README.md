@@ -35,3 +35,5 @@
 ## 📸 Preview
 
 <img src="./src/assets/Screenshot (58).png" width="300" />
+<img src="./src/assets/Screenshot (59).png" width="300" />
+<img src="./src/assets/Screenshot (60).png" width="300" />
