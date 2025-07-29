@@ -36,15 +36,17 @@
    
 ## 📸 Preview
 
-<img src="./src/assets/Screenshot (58).png" width="300" />
-<br />
-<img src="./src/assets/Screenshot (59).png" width="300" />
-<br />
-<img src="./src/assets/Screenshot (60).png" width="300" />
+<div style="display: flex">
+  <img src="./src/assets/Screenshot (58).png" width="300" />
+  <br />
+  <img src="./src/assets/Screenshot (59).png" width="300" />
+  <br />
+  <img src="./src/assets/Screenshot (60).png" width="300" />
+</div>
 
 ---
 
 ## 🚫 Notes
 
-- ⚠️ Create a `.env` file in the root of the project and add your Hugging Face API key.
-- ⚠️ Get your own API key from [Hugging Face API](https://huggingface.co/settings/tokens).
+  - ⚠️ Create a `.env` file in the root of the project and add your Hugging Face API key.
+  - ⚠️ Get your own API key from [Hugging Face API](https://huggingface.co/settings/tokens).
